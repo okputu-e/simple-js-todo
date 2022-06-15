@@ -1,4 +1,4 @@
-# todoapp.github.io
+# todoapp
 
 CONTENTS OF THIS FILE
 ---------------------
